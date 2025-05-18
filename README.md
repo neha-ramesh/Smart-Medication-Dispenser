@@ -89,9 +89,9 @@ The following images showcase the **working prototype**, including the display o
 
 | Output Demo | Description |
 |-------------|-------------|
-| ![O1](https://github.com/user-attachments/assets/c922a148-475f-44b9-b3a3-d12759703341) | Arduino received time interval via Bluetooth |
-| ![O2](https://github.com/user-attachments/assets/ef010023-077f-4b51-8ef0-fcbfee1e2c0a) | Motor dispensing wheel rotated for 1 second |
-| ![O3](https://github.com/user-attachments/assets/f794976b-6982-4ec5-8b64-bbee1a1aa56f) | Buzzer beeps after successful dispense |
+| ![O1](https://github.com/user-attachments/assets/c922a148-475f-44b9-b3a3-d12759703341) | Serial Monitor output |
+| ![O2](https://github.com/user-attachments/assets/ef010023-077f-4b51-8ef0-fcbfee1e2c0a) | User interface of the mobile application |
+| ![O3](https://github.com/user-attachments/assets/f794976b-6982-4ec5-8b64-bbee1a1aa56f) | Connection to the bluetooth |
 | ![O4](https://github.com/user-attachments/assets/a38a32ad-b690-464a-8d46-24bc12edacd6) | Mobile app UI for sending interval data |
 
 ---
