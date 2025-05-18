@@ -85,6 +85,10 @@ This image displays the final assembled hardware setup including the Arduino boa
 
 ## 📸 Project Demonstration
 
+
+https://github.com/user-attachments/assets/98200c80-1c86-444f-8942-b67cb1553ba0
+
+
 The following images showcase the **working prototype**, including the display output, motor operation, mobile app transmission, and buzzer alert in action.
 
 | Output Demo | Description |
